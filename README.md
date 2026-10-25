@@ -26,4 +26,3 @@ A Python-based application for college event registration using SQLite.
 
 ## 🤝 Connect
 - GitHub: [shravangholap14-prog](https://github.com/shravangholap14-prog)
-- LinkedIn: Add your profile link here
