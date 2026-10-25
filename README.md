@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Shravan Gholap 👋
 
-<!--
-**shravangholap14-prog/shravangholap14-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Third-year Artificial Intelligence & Data Science student  
+💻 Learning Python, C++ and SQL  
+🚀 Building practical software projects and preparing for internships.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages:** Python, C++
+- **Database:** SQL, SQLite
+- **Tools:** GitHub
+- **Cloud:** Google Cloud (academic project exposure)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Project
+
+### College Event Registration System
+A Python-based application for college event registration using SQLite.
+
+- **Technologies:** Python, SQLite
+- **Source code:** Coming soon
+
+## 🎯 Current Goals
+- Improve Python programming and problem-solving
+- Practice SQL and database management
+- Learn data structures and algorithms
+- Build projects for software development and AI/data internships
+
+## 🤝 Connect
+- GitHub: [shravangholap14-prog](https://github.com/shravangholap14-prog)
+- LinkedIn: Add your profile link here
